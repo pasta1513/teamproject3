@@ -25,5 +25,8 @@ public class HelloController {
 	public void ynlee() {
 		System.out.println("이거슨 충돌입니더");
 	}
+	public void ks() {
+		
+	}
 
 }
