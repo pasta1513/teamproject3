@@ -21,5 +21,9 @@ public class HelloController {
 		model.addAttribute("vo", vo);
 		return "hello";
 	}
+	
+	public void ynlee() {
+		System.out.println("이거슨 충돌입니더");
+	}
 
 }
